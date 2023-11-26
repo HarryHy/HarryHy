@@ -23,3 +23,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!--START_SECTION:activity--> 
+
+Working on Graph Theory, Reinforcement Learning, NLP and large language models, NAS(Neural Architecture Search) and Network Comression, distributed system and recommendation system 
