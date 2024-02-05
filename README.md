@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!--START_SECTION:activity--> 
-
+<!---
 ## Learning Cycle (2023 )
 - :full_moon_with_face: Graph Theory, 
 - :waxing_gibbous_moon: Reinforcement Learning, 
@@ -41,3 +41,4 @@ You can click the Preview link to take a look at your changes.
 - NLP and large language models,
 - NAS(Neural Architecture Search) and Network Comression, 
 - Distributed system and recommendation system 
+--->
